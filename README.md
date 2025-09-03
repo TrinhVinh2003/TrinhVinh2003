@@ -1,3 +1,11 @@
+# Hi, I'm Vinh 👋
+AI Engineer specializing in NLP and Generative AI
+
+🔭 Currently working on: RAG systems and AI agents
+🌱 Learning: Advanced LLM fine-tuning techniques
+💬 Ask me about: LangChain, FastAPI, Vector Databases
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
